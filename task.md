@@ -56,7 +56,8 @@ Hacker scope:
 - [Теория - работа с DOM деревом](https://learn.javascript.ru/document)
 - [Работа с SVG](https://ru.hexlet.io/blog/posts/kak-rabotat-s-formatom-svg-rukovodstvo-dlya-nachinayuschih-veb-razrabotchikov)
 - [SVG в вебе](https://svgontheweb.com/ru/)
-- [пример аналогичной игры]()
+- [работа с аудио через тег audio](https://xsltdev.ru/html/audio/)
+- [синтез речи](https://developer.mozilla.org/ru/docs/Web/API/SpeechSynthesisUtterance)
 
 
 ## Примеры кода
