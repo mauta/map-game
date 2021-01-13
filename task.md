@@ -13,7 +13,7 @@ Map-game - Небольшая игра на знание географии. П�
 
 - Видео: тут будет ссылка
 - Код: тут будет ссылка
-- Demo: тут будет ссылка
+- Demo: [пример аналогичной игры](https://mauta-countries.netlify.app/)
 
 ## Критерии оценки
 
@@ -45,17 +45,6 @@ Hacker scope:
   
 
 
-  
-  
- 
-  
-
-  
-  
-
-
-
-
   - 
   
 ## Instruction to cross-check
@@ -63,7 +52,11 @@ Hacker scope:
 
   
 ## Материалы
-
+- [Лекция JS DOM](https://youtu.be/lHsQ6EEp3ms)
+- [Теория - работа с DOM деревом](https://learn.javascript.ru/document)
+- [Работа с SVG](https://ru.hexlet.io/blog/posts/kak-rabotat-s-formatom-svg-rukovodstvo-dlya-nachinayuschih-veb-razrabotchikov)
+- [SVG в вебе](https://svgontheweb.com/ru/)
+- [пример аналогичной игры]()
 
 
 ## Примеры кода
